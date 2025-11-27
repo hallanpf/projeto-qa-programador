@@ -48,3 +48,7 @@ Os resultados dos testes (capturas de tela) estão disponíveis na pasta `cypres
 
 Link relativo para visualizar localmente: `./cypress/screenshots/`
 
+
+## Apresentação (vídeo)
+
+Link relativo da apresentação para visualizar: `./video/apresentacao.mp4`.
