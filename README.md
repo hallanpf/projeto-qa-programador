@@ -41,6 +41,10 @@ npx cypress run
 ## Autor / Contato
 
 Repositório de: `hallanpf`
+ 
+## Resultados (screenshots)
 
----
-Arquivo gerado automaticamente: README simples.
+Os resultados dos testes (capturas de tela) estão disponíveis na pasta `cypress/screenshots/`.
+
+Link relativo para visualizar localmente: `./cypress/screenshots/`
+
